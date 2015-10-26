@@ -1,0 +1,22 @@
+table {
+	border: 1px solid black;
+}
+
+th {
+	border-bottom: 1px solid black;
+	text-align:left;
+	padding: 0.5em;
+}
+
+td {
+	text-align: left;
+	padding-left: 0.5em;
+}
+
+#green {
+	color: green;
+}
+
+#red {
+	color: red;
+}
